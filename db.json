@@ -1,22 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointments",
-      "day": "May 27, 2022",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Picking up grocery foods",
-      "day": "May 3rd",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Meeting with the school",
-      "day": "May 10th",
-      "reminder": false
+      "text": "Going to the movies with Maggie",
+      "day": "May 8th @ 7:00PM",
+      "reminder": true,
+      "id": 1
     }
   ]
 }
