@@ -5,6 +5,18 @@
       "day": "May 8th @ 7:00PM",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "Going to mall",
+      "day": "May 5th @ 5PM",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Getting carwash",
+      "day": "May7th @ 10 Am",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
